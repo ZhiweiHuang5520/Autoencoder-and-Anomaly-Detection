@@ -1,5 +1,5 @@
 # Autoencoder-and-Anomaly-Detection
-This is HW 2 of ECE 228 at UCSD. 
+This is HW 2 of ECE 228 at UCSD.   
 2.1 Vanilla Autoencoder
 Autoencoders are a simple but useful model. Similar to how a one-hot encoding transforms data into a
 useful form for a particular network. Autoencoders provide powerful nonlinear encoding of data by squeezing the
