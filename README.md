@@ -6,6 +6,7 @@ useful form for a particular network. Autoencoders provide powerful nonlinear en
 data through a “bottleneck” called the latent space. Which in a sense filters the data down to a sparse basis or
 representation of the data. The goal is to find a smallest latent space which gives a highly accurate reconstruction of
 the data.  
+
 2.2 Convolutional Autoencoder
 A more powerful and complex form of autoencoder which can combine local information to create
 complex abstract features across 2D image patches. Using max pooling provides invariant features while only
